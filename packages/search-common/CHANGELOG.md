@@ -1,5 +1,12 @@
 # @backstage/search-common
 
+## 0.3.5
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-common@0.3.5
+
 ## 0.3.5-next.1
 
 ### Patch Changes
